@@ -1,0 +1,15 @@
+{
+  "name": "Билет",
+  "short_name": "Билет",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f3f4",
+  "theme_color": "#202124",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
